@@ -59,7 +59,9 @@ None
 <img src="./Assets/notetaker.gif">
 
 ## Link
-https://github.com/minhkhoinguy/Note-Taker
+[Github] https://github.com/minhkhoinguy/Note-Taker
+
+[URL] https://note-taker-mkn.herokuapp.com/notes
 
 
 ## Question
